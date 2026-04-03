@@ -1,1 +1,1 @@
-# Walmart-Hackathon-
+# SmartSustainAI
